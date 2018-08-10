@@ -296,11 +296,11 @@ $(document).ready(function() {
 			var projectTag = projects[i]['tags'].slice();
 
 			if(i % 2 != 0) 
-				projectPattern.src = "images/projright.png";
+				projectPattern.src = "static/images/projright.png";
 			else if (i % 2 == 0)
-				projectPattern.src = "images/projleft.png";
+				projectPattern.src = "static/images/projleft.png";
 
-			projectImage.src = projects[i].image;
+			projectImage.src = "static/" + projects[i].image;
 			projectName.textContent = projects[i].name;
 			projectType.textContent = projects[i].type + " - " + projects[i].field;
 			projectDescription.innerHTML = projects[i].description;
