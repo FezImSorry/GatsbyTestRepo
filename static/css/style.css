@@ -1,5 +1,6 @@
   * {
     margin: 0;
+    text-decoration: none;
   }
 
   html, body {
@@ -184,6 +185,8 @@
   .contactInfo img {
     height: 40px;
     width: 40px;
+    margin: 0px 0px;
+    vertical-align: middle;
   }
 
   .contactInfo a {
@@ -214,6 +217,8 @@
   .resumeHeader img { 
     height: 40px;
     width: 40px;
+    margin: 0px 0px;
+    vertical-align: middle;
   }
 
   .resumeHeader a {

@@ -1,52 +1,52 @@
 {
   "assetsByChunkName": {
+    "path---posts-second-blog-post": [
+      "path---posts-second-blog-post-f9363e834e6f22c2485e.js",
+      "path---posts-second-blog-post-f9363e834e6f22c2485e.js.map"
+    ],
+    "path---posts-first-blog-post": [
+      "path---posts-first-blog-post-9052bdae198feba5e10f.js",
+      "path---posts-first-blog-post-9052bdae198feba5e10f.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-18a464d3c436c53c2e46.js",
-      "component---src-pages-index-js-18a464d3c436c53c2e46.js.map"
+      "component---src-pages-index-js-f99db5136de4f8e46d72.js",
+      "component---src-pages-index-js-f99db5136de4f8e46d72.js.map"
     ],
     "path---": [
-      "path----7d450ad9edaf637002cf.js",
-      "path----7d450ad9edaf637002cf.js.map"
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
     ],
-    "path---third-blog-post": [
-      "path---third-blog-post-d51074e7c8bc5713aca2.js",
-      "path---third-blog-post-d51074e7c8bc5713aca2.js.map"
+    "path---posts-third-blog-post": [
+      "path---posts-third-blog-post-b0a50a2031e03862a929.js",
+      "path---posts-third-blog-post-b0a50a2031e03862a929.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
-      "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
+      "component---src-templates-blog-post-js-2712aa4caf079f855571.js",
+      "component---src-templates-blog-post-js-2712aa4caf079f855571.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-11217bfee6365b2db0df.js",
-      "component---src-layouts-index-js-11217bfee6365b2db0df.js.map"
+      "component---src-layouts-index-js-7de56f93481afc82f76f.js",
+      "component---src-layouts-index-js-7de56f93481afc82f76f.js.map"
     ],
     "path---index": [
-      "path---index-4f92ebde69f2b724f207.js",
-      "path---index-4f92ebde69f2b724f207.js.map"
+      "path---index-eb207b2590d27a40eba1.js",
+      "path---index-eb207b2590d27a40eba1.js.map"
     ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
     ],
     "path---my-files": [
-      "path---my-files-a9aa1fd6e18b418a17e4.js",
-      "path---my-files-a9aa1fd6e18b418a17e4.js.map"
+      "path---my-files-8dc2e1b967cfe40bcde2.js",
+      "path---my-files-8dc2e1b967cfe40bcde2.js.map"
     ],
     "commons": [
       "commons-9bae42c77058169301a9.js",
       "commons-9bae42c77058169301a9.js.map"
     ],
-    "path---pandas-and-bananas": [
-      "path---pandas-and-bananas-b3ce60024787ff23dce2.js",
-      "path---pandas-and-bananas-b3ce60024787ff23dce2.js.map"
-    ],
-    "path---sweet-pandas-eating-sweets": [
-      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js",
-      "path---sweet-pandas-eating-sweets-765a0771e51424303639.js.map"
-    ],
     "app": [
-      "app-0e4b4e348a16f90fa857.js",
-      "app-0e4b4e348a16f90fa857.js.map"
+      "app-60dbd3963f7e63e29e7b.js",
+      "app-60dbd3963f7e63e29e7b.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-0dc92b04e4c07c951f78.js",
